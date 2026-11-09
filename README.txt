@@ -1,13 +1,13 @@
 # Samuel Bouzendorffer
 
-Étudiant en prépa ingénieur informatique à l'**Icam Strasbourg-Europe**, je me forme à la cybersécurité.
-**Je recherche une alternance en cybersécurité à partir de septembre 2027** (rythme : 2 semaines école / 2 semaines entreprise), à Strasbourg.
+Étudiant en prépa d'ingénieur en informatique à l'Icam Strasbourg-Europe, je me forme à la cybersécurité.
+Je recherche une alternance en cybersécurité à partir de septembre 2027 (rythme : 2 semaines école / 2 semaines entreprise), à Strasbourg.
 
 ## Ce que je pratique
 
-- **CTF et plateformes d'entraînement** : Cyber Ninja CTF (31/01/2025, en solo), Hack The Box (tutoriel d'initiation et modules de base).
-- **Programmation** : Python, C++, JavaScript.
-- **Outils** : Arduino, Spyder, Autodesk Inventor.
+- CTF et plateformes d'entraînement : Cyber Ninja CTF (31/01/2025, en solo), Hack The Box (tutoriel d'initiation et modules de base).
+- Programmation: Python, C++, JavaScript.
+- Outils: Arduino, Spyder, Autodesk Inventor.
 
 ## Mes projets
 
@@ -27,4 +27,4 @@
 ## Me contacter
 
 - LinkedIn : [samuel-bouzendorffer](https://www.linkedin.com/in/samuel-bouzendorffer)
-- Email : sambouzen@gmail.com
+- Email: sambouzen@gmail.com
